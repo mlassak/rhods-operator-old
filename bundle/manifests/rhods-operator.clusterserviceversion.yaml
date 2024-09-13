@@ -1779,6 +1779,12 @@ spec:
   - Open Data Hub
   - opendatahub
   - Red Hat OpenShift AI
+  - RHOAI
+  - OAI
+  - AI
+  - ML
+  - Machine Learning
+  - Data Science
   - notebooks
   - serving
   - training
